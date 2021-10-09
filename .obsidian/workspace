@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Some Gobbledygook.md",
+            "file": "Personal Spaces/Alex/Going Somewhere Else - A Slogan.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some Gobbledygook.md",
+                "file": "Personal Spaces/Alex/Going Somewhere Else - A Slogan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Some Gobbledygook.md"
+                "file": "Personal Spaces/Alex/Going Somewhere Else - A Slogan.md"
               }
             }
           }
@@ -106,15 +106,15 @@
   },
   "active": "2be6bfbaf33fc264",
   "lastOpenFiles": [
+    "Personal Spaces/Alex/Going Somewhere Else - A Slogan.md",
+    "Personal Spaces/Alex/Alexs Index.md",
+    "README.md",
     "Some Gobbledygook.md",
     "Untitled.md",
     "Shared Space/Digital Space/The Space/Money/GENSEQ - Why Money/GENSEQ - Why Money Index.md",
     "Shared Space/Digital Space/The Space/Money/GENSEQ - Why Money/GENSEQ - Why Money? Index.md",
     "Shared Space/Digital Space/The Space/Money/GENSEQ - How Money?/GENSEQ - How Money Index.md",
-    "README.md",
     "Shared Space/Digital Space/Untitled.md",
-    "Shared Space/Digital Space/Digital Space Index.md",
-    "assets/Untitled.md",
-    "assets/Card Template.md"
+    "Shared Space/Digital Space/Digital Space Index.md"
   ]
 }
