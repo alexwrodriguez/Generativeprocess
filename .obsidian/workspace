@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "86233f3ba41851f7",
+    "id": "41472ec544ed80c8",
     "type": "split",
     "children": [
       {
-        "id": "965e0927621f2f34",
+        "id": "ea83c3cdea2a59f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Some Gobbledygook.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some Gobbledygook.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Some Gobbledygook.md"
+                "file": "README.md"
               }
             }
           }
@@ -104,10 +104,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "965e0927621f2f34",
+  "active": "ea83c3cdea2a59f2",
   "lastOpenFiles": [
-    "Some Gobbledygook.md",
     "README.md",
+    "Some Gobbledygook.md",
     "Personal Spaces/Josh/Joshs Index.md",
     "Personal Spaces/Alex/Going Somewhere Else - A Slogan.md",
     "Personal Spaces/Alex/Alexs Index.md",
