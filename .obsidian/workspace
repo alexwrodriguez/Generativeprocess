@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shared Space/Digital Space/The Space/The Space/Architecture.md",
+            "file": "assets/Card Template.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shared Space/Digital Space/The Space/The Space/Architecture.md",
+                "file": "assets/Card Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shared Space/Digital Space/The Space/The Space/Architecture.md"
+                "file": "assets/Card Template.md"
               }
             }
           }
@@ -106,15 +106,15 @@
   },
   "active": "229b9ed7c670b1a4",
   "lastOpenFiles": [
+    "assets/Card Template.md",
+    "Shared Space/Digital Space/Digital Space Index.md",
+    "Shared Space/Shared Space Index.md",
     "Shared Space/Digital Space/The Space/The Space/Architecture.md",
     "README.md",
     "Personal Spaces/Toni/Tonis Index.md",
     "Personal Spaces/Toni/Value/Value - Index.md",
     "Personal Spaces/Toni/Value/Space of abundance.md",
     "Personal Spaces/Toni/Value/Space as a flow of value.md",
-    "Personal Spaces/Toni/Value/Regenerative space.md",
-    "Personal Spaces/Toni/Value/Participation in the value exchange.md",
-    "Personal Spaces/Robert/Roberts Index.md",
-    "Personal Spaces/Josh/Joshs Index.md"
+    "Personal Spaces/Toni/Value/Regenerative space.md"
   ]
 }
